@@ -1,4 +1,4 @@
-package ramin.seyghaly.adsexample;
+package ramin.seyghaly.ex_ads;
 
 import androidx.appcompat.app.AppCompatActivity;
 
